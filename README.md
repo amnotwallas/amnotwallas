@@ -9,21 +9,26 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames 🎮.
 
+<br/>
+<br/>
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
-
+### 🎶 Mi playlist: Lo-fi vibes, chill & focus  
+[![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Open_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0GLxhM5ojg6440VeYGW3h1?si=5762e3615e2449a7)
+<br/>
+<br/>
 ---
 
 ### Contact with me 📝
 
-[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
 
 <br />
+<br/>
 
 ---
 
@@ -43,22 +48,6 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
 <br/>
 
 ---
