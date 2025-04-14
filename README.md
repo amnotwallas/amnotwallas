@@ -30,7 +30,7 @@
 ---
 
 ### Languages and Tools 🛠
-<p>I am currently learning and working with.../</p>
+<p>I am currently learning and working with...</p>
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
