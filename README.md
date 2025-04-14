@@ -21,7 +21,7 @@
 
 ### Contact with me 📝
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
 
 <br />
 
