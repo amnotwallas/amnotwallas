@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31mi6oqe6he7b4yvben2uow7q3tu)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
 
 ---
 
@@ -29,7 +29,8 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
+<p>I am currently learning and working with.../</p>
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
