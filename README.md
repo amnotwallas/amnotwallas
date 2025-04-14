@@ -14,7 +14,8 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
+
 
 ### Spotify Playing 🎧
 ### 🎶 Mi playlist: Lo-fi vibes, chill & focus  
