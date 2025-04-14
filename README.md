@@ -21,7 +21,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="LinkedIn" height="30px" src="[https://www.flaticon.com/svg/static/icons/svg/725/725337.svg](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)"/>][linkedin]
+[<img align="left" alt="LinkedIn" height="30px" src="[https://www.flaticon.com/svg/static/icons/svg/725/725337.svg](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)"/>][https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316]
 
 <br />
 
