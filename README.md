@@ -1,4 +1,7 @@
-# Hi there, I'm Walter ✌️👋
+<!--Hi there, I'm Walter✌️👋  -->
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=30&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=45&lines=Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+
 
 <br/>
 <img align="right" height="300px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
@@ -27,7 +30,7 @@ I am a computer systems engineering student and I am interested in learning more
 
 <!-- Every new beginning is an opportunity to reinvent yourself. -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=F7F7F7&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=f3ca24&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
 
 ---
 
