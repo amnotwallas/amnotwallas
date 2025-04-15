@@ -27,11 +27,11 @@ I am a computer systems engineering student and I am interested in learning more
 
 Every new beginning is an opportunity to reinvent yourself.
 
-<br/><br/>
+<br/>
 
 ---
 
-<img align="right" alt="Avatar" height="150px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
+<img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
 
 
 ### Spotify Playing 🎧
