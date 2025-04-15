@@ -45,7 +45,7 @@ Every new beginning is an opportunity to reinvent yourself.
 
 ### Contact with me 📝
 
-[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/walter-jahir-ambriz-reyna-28644b316)
 
 <br />
 
