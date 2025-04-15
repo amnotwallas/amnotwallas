@@ -9,18 +9,20 @@ I am a computer systems engineering student and I am interested in learning more
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames 🎮.
 
-<br/>
+<br/><br/>
 
 ---
 
-<img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
+<img align="right" alt="Avatar" height="150px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
 
 
 ### Spotify Playing 🎧
 ### 🎶 Mi playlist: Lo-fi vibes, chill & focus  
 [![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Open_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0GLxhM5ojg6440VeYGW3h1?si=5762e3615e2449a7)
+
 <br/>
 <br/>
+
 ---
 
 ### Contact with me 📝
