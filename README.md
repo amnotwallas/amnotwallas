@@ -9,7 +9,7 @@ class amTheWallas():
   def __init__(self):
     self.name = "Walter Ambriz Reyna";
     self.username = "The Wallas";
-    self.location = "Michoacan, Mexico";
+    self.location = "Michoacán, Mexico";
   
   def __str__(self):
     return self.name
