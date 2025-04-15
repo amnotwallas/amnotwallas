@@ -11,7 +11,7 @@ class amTheWallas():
     
   def __init__(self):
     self.name = "Walter Ambriz Reyna";
-    self.username = "The Wallas";
+    self.nickname = "The Wallas";
     self.location = "Michoacán, Mexico";
   
   def __str__(self):
