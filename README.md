@@ -1,6 +1,7 @@
 # Hi there, I'm Walter ✌️👋
 <img align="right" height="230px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
 <br/>
+
 ## I am a computer systems engineering student and I am interested in learning more about this field. 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
