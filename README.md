@@ -1,13 +1,31 @@
 # Hi there, I'm Walter ✌️👋
 
 <br/>
-<img align="right" height="200px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
+<img align="right" height="350px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
+
+```python
+class amTheWallas():
+    
+  def __init__(self):
+    self.name = "Walter Ambriz Reyna";
+    self.username = "The Wallas";
+    self.location = "Michoacan, Mexico";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = amTheWallas()
+```
+
 I am a computer systems engineering student and I am interested in learning more about this field.
 
 - 👨‍💻 I’m currently student.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I'm learning about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames 🎮.
+
+Every new beginning is an opportunity to reinvent yourself.
 
 <br/><br/>
 
