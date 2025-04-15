@@ -1,7 +1,7 @@
 # Hi there, I'm Walter ✌️👋
 
 <br/>
-<img align="right" height="350px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
+<img align="right" height="300px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
 
 ```python
 class amTheWallas():
