@@ -1,7 +1,6 @@
 # Hi there, I'm Walter ✌️👋
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+<img align="right" height="230px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
+<br/>
 ## I am a computer systems engineering student and I am interested in learning more about this field. 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -57,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/016/833/880/small_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" height="43" alt="github logo" />
+  <img src="https://pngimg.com/uploads/github/github_PNG37.png" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
