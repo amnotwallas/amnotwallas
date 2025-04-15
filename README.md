@@ -27,8 +27,6 @@ I am a computer systems engineering student and I am interested in learning more
 
 Every new beginning is an opportunity to reinvent yourself.
 
-<br/>
-
 ---
 
 <img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
