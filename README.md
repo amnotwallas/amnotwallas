@@ -25,7 +25,9 @@ I am a computer systems engineering student and I am interested in learning more
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames 🎮.
 
-Every new beginning is an opportunity to reinvent yourself.
+<!-- Every new beginning is an opportunity to reinvent yourself. -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=F7F7F7&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
 
 ---
 
