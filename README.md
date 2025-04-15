@@ -1,10 +1,10 @@
 # Hi there, I'm Walter ✌️👋
 
 <br/>
-<img align="right" height="230px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
-## I am a computer systems engineering student and I am interested in learning more about this field. 
+<img align="right" height="200px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
+I am a computer systems engineering student and I am interested in learning more about this field.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently student.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames 🎮.
