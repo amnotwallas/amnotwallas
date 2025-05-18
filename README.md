@@ -6,19 +6,24 @@
 <br/>
 <img align="right" height="300px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
 
-```python
-class amTheWallas():
-    
-  def __init__(self):
-    self.name = "Walter Ambriz Reyna";
-    self.nickname = "The Wallas";
-    self.location = "Michoacán, Mexico";
-  
-  def __str__(self):
-    return self.name
+```Java
+public class AmTheWallas {
+    private String name;
+    private String nickname;
+    private String location;
 
-if __name__ == '__main__':
-    me = amTheWallas()
+    public AmTheWallas() {
+        this.name = "Walter Ambriz Reyna";
+        this.nickname = "The Wallas";
+        this.location = "Michoacán, Mexico";
+    }
+
+    public String getMe() {
+        return "Nombre: " + name + "\n" +
+               "Apodo: " + nickname + "\n" +
+               "Ubicación: " + location;
+    }
+}
 ```
 
 I am a computer systems engineering student and I am interested in learning more about this field.
