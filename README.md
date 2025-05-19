@@ -27,6 +27,9 @@ public class AmTheWallas {
 ```
 
 I am a computer systems engineering student and I am interested in learning more about this field.
+I have knowledge of Java, Python, HTML, CSS, JavaScript, and some React. I've also worked with databases like MySQL and PostgreSQL, and I'm constantly learning. I'm also familiar with Git and GitHub. Although I don't have any work experience yet, I've completed several school projects that have allowed me to better understand how to apply what I've learned.
+
+I enjoy researching, optimizing processes, and continuously learning. I'm open to any area where I can contribute, grow, and continue developing. I'm committed to learning and contributing responsibly and with a positive attitude from day one.
 
 - 👨‍💻 I’m currently student.
 - 📚 I'm learning about Frontend and Backend technologies 😅
