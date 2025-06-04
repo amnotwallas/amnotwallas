@@ -54,12 +54,14 @@ I enjoy researching, optimizing processes, and continuously learning. I'm open t
 
 ---
 
-### Contact with me 📝
+### Contact with me in📝
 
 [<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/walterambriz)
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/iosoywalas)
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:walterardev@gmail.com)
 
+### or
+<p>walterardev@gmail.com</p>
 <br />
 
 ---
