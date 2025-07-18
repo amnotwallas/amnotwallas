@@ -1,6 +1,6 @@
 <!--Hi there, I'm Walter✌️👋  -->
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=50&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=60&lines=Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=50&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=60&lines=>+Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 
 
