@@ -3,19 +3,19 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=50&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=60&lines=Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 
-<br/>
-<img align="right" height="300px" alt="GithubLogo" src="https://pngimg.com/uploads/github/github_PNG32.png"/>
 
 ```Java
 public class AmTheWallas {
     private String name;
     private String nickname;
     private String location;
+    private String[] hobbies;
 
     public AmTheWallas() {
         this.name = "Walter Ambriz Reyna";
         this.nickname = "The Wallas";
         this.location = "Michoacán, Mexico";
+        this.hobbies = new String[] {"Music", "Chilling", "Gaming", "Movies", "Study"};
     }
 
     public String getMe() {
