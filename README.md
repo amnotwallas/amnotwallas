@@ -41,7 +41,7 @@ I enjoy researching, optimizing processes, and continuously learning. I'm open t
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=f3ca24&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
 
 ---
-
+<!--
 <img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
 
 
@@ -53,7 +53,7 @@ I enjoy researching, optimizing processes, and continuously learning. I'm open t
 <br/>
 
 ---
-
+-->
 ### Contact with me in📝
 
 [<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/walterambriz)
