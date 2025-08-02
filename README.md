@@ -20,10 +20,6 @@ Apodo     : {self.nickname}
 Ubicación : {self.location}
 Hobbies   : {hobbies_list}
 ```"""
-
-# Ejemplo
-persona = AmTheWallas()
-print(persona.to_markdown()
 ```
 
 I am a computer systems engineering student and I am interested in learning more about this field.
