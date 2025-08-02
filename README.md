@@ -4,26 +4,26 @@
 
 
 
-```Java
-public class AmTheWallas {
-    private String name;
-    private String nickname;
-    private String location;
-    private String[] hobbies;
+```Python
+class AmTheWallas:
+    def __init__(self):
+        self.name = "Walter Ambriz Reyna"
+        self.nickname = "The Wallas"
+        self.location = "Michoacán, México"
+        self.hobbies = ["🎵 Music", "😎 Chilling", "🎮 Gaming", "🎬 Movies", "📚 Study"]
 
-    public AmTheWallas() {
-        this.name = "Walter Ambriz Reyna";
-        this.nickname = "The Wallas";
-        this.location = "Michoacán, Mexico";
-        this.hobbies = new String[] {"Music", "Chilling", "Gaming", "Movies", "Study"};
-    }
+    def to_markdown(self):
+        hobbies_list = ' | '.join(self.hobbies)
+        return f"""```text
+Nombre    : {self.name}
+Apodo     : {self.nickname}
+Ubicación : {self.location}
+Hobbies   : {hobbies_list}
+```"""
 
-    public String getMe() {
-        return "Nombre: " + name + "\n" +
-               "Apodo: " + nickname + "\n" +
-               "Ubicación: " + location;
-    }
-}
+# Ejemplo
+persona = AmTheWallas()
+print(persona.to_markdown()
 ```
 
 I am a computer systems engineering student and I am interested in learning more about this field.
