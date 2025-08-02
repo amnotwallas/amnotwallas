@@ -10,16 +10,24 @@ class AmTheWallas:
         self.name = "Walter Ambriz Reyna"
         self.nickname = "The Wallas"
         self.location = "Michoacán, México"
-        self.hobbies = ["🎵 Music", "😎 Chilling", "🎮 Gaming", "🎬 Movies", "📚 Study"]
+        self.hobbies = [
+            "🎵 Music",
+            "😎 Chilling",
+            "🎮 Gaming",
+            "🎬 Movies",
+            "📚 Study"
+        ]
 
-    def to_markdown(self):
-        hobbies_list = ' | '.join(self.hobbies)
-        return f"""```text
-Nombre    : {self.name}
-Apodo     : {self.nickname}
-Ubicación : {self.location}
-Hobbies   : {hobbies_list}
-```"""
+    def get_me(self):
+        return f"""
+        Nombre    : {self.name}
+        Apodo     : {self.nickname}
+        Ubicación : {self.location}
+        Hobbies   : {' | '.join(self.hobbies)}
+        """
+
+print(AmTheWallas().get_me())
+
 ```
 
 I am a computer systems engineering student and I am interested in learning more about this field.
