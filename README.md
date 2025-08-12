@@ -10,13 +10,7 @@ class AmTheWallas:
         self.name = "Walter Ambriz Reyna"
         self.nickname = "The Wallas"
         self.location = "Michoacán, México"
-        self.hobbies = [
-            "🎵 Music",
-            "😎 Chilling",
-            "🎮 Gaming",
-            "🎬 Movies",
-            "📚 Study"
-        ]
+        self.hobbies = [ "🎵 Music", "😎 Chilling", "🎮 Gaming", "🎬 Movies", "📚 Study"]
 
     def get_me(self):
         return f"""
