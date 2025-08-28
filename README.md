@@ -2,7 +2,9 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=50&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=60&lines=>+Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-
+![Learning](https://img.shields.io/badge/-Learning-blue?style=flat-square)
+![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaborate-brightgreen?style=flat-square)
+![Student](https://img.shields.io/badge/-Student-orange?style=flat-square)
 
 ```Python
 class AmTheWallas:
@@ -14,25 +16,20 @@ class AmTheWallas:
 
     def get_me(self):
         return f"""
-        Nombre    : {self.name}
-        Apodo     : {self.nickname}
-        Ubicación : {self.location}
-        Hobbies   : {' | '.join(self.hobbies)}
-        """
+                Name     : {self.name}
+                Nickname : {self.nickname}
+                Location : {self.location}
+                Hobbies  : {' | '.join(self.hobbies)}
+            """
+
 
 print(AmTheWallas().get_me())
 
 ```
 
-I am a computer systems engineering student and I am interested in learning more about this field.
-I have knowledge of Java, Python, HTML, CSS, JavaScript, and some React. I've also worked with databases like MySQL and PostgreSQL, and I'm constantly learning. I'm also familiar with Git and GitHub. Although I don't have any work experience yet, I've completed several school projects that have allowed me to better understand how to apply what I've learned.
+I’m a Computer Systems Engineering student, curious and committed, always eager to learn and grow.  
+I enjoy solving problems, researching, and collaborating on projects that create value.  
 
-I enjoy researching, optimizing processes, and continuously learning. I'm open to any area where I can contribute, grow, and continue developing. I'm committed to learning and contributing responsibly and with a positive attitude from day one.
-
-- 👨‍💻 I’m currently student.
-- 📚 I'm learning about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play videogames 🎮.
 
 <!-- Every new beginning is an opportunity to reinvent yourself. -->
 
@@ -52,17 +49,17 @@ I enjoy researching, optimizing processes, and continuously learning. I'm open t
 
 ---
 -->
-### Contact with me in📝
-
-[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/walterambriz)
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/notwallas)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:walterardev@gmail.com)
+### 📫 Contact me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walterambriz)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:walterardev@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/notwallas)
 
 ### or
 <p>walterardev@gmail.com</p>
 <br />
 
 ---
+
 
 ### Languages and Tools 🛠
 <p>I am currently learning and working with...</p>
@@ -137,4 +134,8 @@ I enjoy researching, optimizing processes, and continuously learning. I'm open t
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnotwallas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amnotwallas&theme=algolia&hide_border=true"/>
+</p>
+
 
