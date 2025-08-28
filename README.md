@@ -2,9 +2,11 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=100&size=50&duration=2000&pause=1000&color=FDFEFE&multiline=true&width=800&height=60&lines=>+Hi+there%2C+I'm+Walter%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-![Learning](https://img.shields.io/badge/-Learning-blue?style=flat-square)
-![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaborate-brightgreen?style=flat-square)
-![Student](https://img.shields.io/badge/-Student-orange?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-blue?style=for-the-badge&logo=bookstack&logoColor=white)
+![Student](https://img.shields.io/badge/Student-orange?style=for-the-badge&logo=academia&logoColor=white)
+![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaborate-brightgreen?style=for-the-badge&logo=github)
+
+
 
 ```Python
 class AmTheWallas:
@@ -36,27 +38,15 @@ I enjoy solving problems, researching, and collaborating on projects that create
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=f3ca24&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
 
 ---
-<!--
-<img align="right" alt="Avatar" height="100px" src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" />
 
-
-### Spotify Playing 🎧
-### 🎶 Mi playlist: Lo-fi vibes, chill & focus  
-[![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Open_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0GLxhM5ojg6440VeYGW3h1?si=5762e3615e2449a7)
-
-<br/>
-<br/>
-
----
--->
 ### 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walterambriz)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:walterardev@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/notwallas)
 
 ### or
-<p>walterardev@gmail.com</p>
-<br />
+📧 `walterardev@gmail.com`
+
 
 ---
 
