@@ -24,7 +24,6 @@ class AmTheWallas:
                 Hobbies  : {' | '.join(self.hobbies)}
             """
 
-
 print(AmTheWallas().get_me())
 
 ```
