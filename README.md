@@ -112,7 +112,7 @@ I enjoy solving problems, researching, and collaborating on projects that create
 
 <br/>
 <br/>
--->
+
 -----
 
 ### ⚙️ &nbsp;Estadísticas
@@ -126,5 +126,5 @@ I enjoy solving problems, researching, and collaborating on projects that create
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amnotwallas&theme=algolia&hide_border=true"/>
 </p>
-
+-->
 
