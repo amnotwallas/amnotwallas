@@ -46,7 +46,7 @@ I enjoy solving problems, researching, and collaborating on projects that create
 ### or
 📧 `walterardev@gmail.com`
 
-
+<!--
 ---
 
 
@@ -112,7 +112,7 @@ I enjoy solving problems, researching, and collaborating on projects that create
 
 <br/>
 <br/>
-
+-->
 -----
 
 ### ⚙️ &nbsp;Estadísticas
