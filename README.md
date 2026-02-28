@@ -5,48 +5,48 @@
 ```Python
 class SoftwareEngineer:
     name = "Walter Ambriz Reyna"
-    role = "Backend / AI Engineer"
+    role = "Software Engineer | Backend & AI Systems"
     location = "Mexico"
     focus = [
-        "API Design",
-        "AI Assistants",
-        "Data-Driven Systems",
-        "Digital Health"
+        "API Architecture",
+        "LLM Integrations",
+        "Data Pipelines",
+        "Digital Health Systems"
     ]
 ```
 <!-- Every new beginning is an opportunity to reinvent yourself. -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=8000&pause=1000&color=f3ca24&width=650&lines=Every+new+beginning+is+an+opportunity+to+reinvent+yourself.)](https://git.io/typing-svg)
 
-## 👋 About me
+## About Me
 
-Computer Systems Engineering student with professional backend experience building backend and AI-driven systems in the digital health domain. Currently contributing to production-grade platforms at **IBICARE**, working on APIs, data pipelines, and AI assistants used in real environments.
+Software Engineer focused on backend and AI-driven systems in the digital health domain.
 
-Primary interests:
-- Backend systems (FastAPI, APIs, auth, data models)
-- AI-powered products (LLMs, assistants, streaming)
-- Health-tech and data-driven platforms 
+I design and implement production-oriented backend services using FastAPI, secure authentication flows, and structured data models. My work includes integrating LLM-based assistants into operational dashboards, implementing streaming systems (SSE), and building SQL Server–based data pipelines for biometric data processing in non-diagnostic healthcare environments.
+
+I am particularly interested in reliable, data-centric systems where correctness, traceability, and predictable behavior are critical.
+
 
 ![Open to Backend & AI Collaboration](https://img.shields.io/badge/Open_to-Collaborate-brightgreen?style=flat&logo=github)
 
-## 🏢 Professional Contributions
+## Professional Contributions
 
 Most of my production-level work lives in my corporate GitHub account:
 
 ### **IBICARE GitHub**  
 [![IBICARE GitHub](https://img.shields.io/badge/IBICARE-GitHub-181717?style=flat&logo=github)](https://github.com/IBICARE)
 
-I contribute to:
-- Backend services and APIs (FastAPI)
-- AI assistants and LLM integrations
-- Data pipelines and auth flows
-- Collaborative, review-driven development in production environments
+There, I contribute to:
 
-> This personal GitHub focuses on learning, experiments, and side projects.  
-> My IBICARE GitHub reflects my day-to-day engineering work.
+- Backend services and API architecture (FastAPI)
+- LLM integrations and AI-assisted modules
+- Secure authentication and streaming systems
+- SQL Server–based data pipelines
+- Review-driven, production-oriented development
 
+> This personal GitHub focuses on learning, experimentation, and independent projects. My corporate account reflects my day-to-day engineering work.
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/walterambriz
 - Email:  `walterardev@gmail.com`
 - Discord: notwallas
